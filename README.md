@@ -1,5 +1,5 @@
 # ROTMG_Patience
-A simulator for the Patience phase of ROTMG's Forgotten King fight
+Patience Simulator
 
 I recreated a simulator for the Patience phase of ROTMG's Forgotten King fight using pygame. I used the sprites in u/Mxple's version (https://github.com/Mxple/TPGsim). I've been using their's for a
 while since they did a really good job with it. I just wanted to make my own in pygame to eventually train an AI to play it. It's my first time coding a game ever, so I hope ya'll enjoy it.
