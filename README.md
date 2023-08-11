@@ -9,5 +9,5 @@ Added as much detail as I could to make it resemble the real game. The applicati
 # Controls
 
 WASD movement  
-P to pause and M for menu  
+P to pause, R to reset, and M for menu  
 In the menu you can change stats quickly by holding the buttons down.  
