@@ -6,6 +6,8 @@ while since they did a really good job with it. I just wanted to make my own in 
 
 Added as much detail as I could to make it resemble the real game. The application along with the data file is in a zip file in the releases named Patience.zip. I have yet to add screen rotations and such, but I might add stuff like other player skins too later on.
 
+CURRENTLY WINDOWS ONLY
+
 # Controls
 
 WASD movement  
