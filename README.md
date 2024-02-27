@@ -1,6 +1,9 @@
 # ROTMG_Patience
 Patience Simulator
 
+![image](https://github.com/PermeableMaple1/RotmgPatience_Simulator/assets/123516926/cc6d95f9-9571-4168-93d9-a3b21253405a)
+
+
 I recreated a simulator for the Patience phase of ROTMG's Forgotten King fight using pygame. I used the sprites in u/Mxple's version (https://github.com/Mxple/TPGsim). I've been using their's for a
 while since they did a really good job with it. I just wanted to make my own in pygame to eventually train an AI to play it. It's my first time coding a game ever, so I hope ya'll enjoy it.
 
@@ -12,4 +15,7 @@ CURRENTLY WINDOWS ONLY
 
 WASD movement  
 P to pause, R to reset, and M for menu  
-In the menu you can change stats quickly by holding the buttons down.  
+In the menu you can change stats quickly by holding the buttons down.
+
+![image](https://github.com/PermeableMaple1/RotmgPatience_Simulator/assets/123516926/782e8bc7-ddc3-47fd-92bc-ce70d4851a91)
+
